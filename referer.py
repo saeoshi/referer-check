@@ -1,3 +1,6 @@
+#
+# check referer tool
+#
 #!/usr/bin/python
 
 import urllib2
